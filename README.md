@@ -44,4 +44,4 @@ Reads each line of a file and prints it with formatting and line numbers.
 - Working with files (.txt) – reading, writing, and analyzing
 - Using regular expressions for validation
 - Structuring Python scripts for clarity and reuse
--
+
